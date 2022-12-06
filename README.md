@@ -1,1 +1,2 @@
-110550093
+# 3D_Mesh
+因為路徑設置問題，因此下載nupengl並使用裡面的freeglut，與opengl中的freeglut相同並無差別
